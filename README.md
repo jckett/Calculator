@@ -1,7 +1,15 @@
-# Calculator
+# Building Your Own Calculator
 
-This program is a calculator and works on user input
+Using a calculator is fun, but imagine if it were on your computer and you didn't have to use the mouse to click number buttons. This program allows you to solve simple arithmetic problems from the comfort of your preferred Python IDE. 
 
-# Launch
+## The Data
 
-Built in Python, this program can be run from any Python IDE.
+All data is provided by the user depending on the calculation they want to execute. 
+
+## Technologies
+
+Built within PyCharm, all calculations are achieved through built-in packages. 
+
+## Launch
+
+The code provided in my GitHub repository can be opened in PyCharm or copied into any Python IDE.
